@@ -4,6 +4,8 @@ export default function Home() {
   return (
     <div className="p-24">
       <button className="btn">Get Started</button>
+      <input className="input"></input>
+      <textarea className="textarea"></textarea>
     </div>
   );
 }
